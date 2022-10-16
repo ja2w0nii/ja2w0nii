@@ -1,0 +1,5 @@
+venv
+
+.gitmessage.txt
+
+db.sqlite3
