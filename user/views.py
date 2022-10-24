@@ -1,8 +1,9 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from .models import UserModel
 from django.contrib.auth import get_user_model #사용자가 있는지 검사하는 함수
 from django.contrib import auth # 사용자 auth 기능
 from django.contrib.auth.decorators import login_required
+from django.http import HttpResponse
 
 # Create your views here.
 
@@ -62,3 +63,12 @@ def signup(request):
 def logout(request):
     auth.logout(request) # 인증 되어있는 정보를 없애기
     return redirect("/signin")
+
+
+#유저 프로필
+def profile(request, username):
+    user = get_object_or_404(UserModel, username=username)
+    context = {
+        'user': user
+    }
+    return render(request, 'user/account/profile.html', context)
