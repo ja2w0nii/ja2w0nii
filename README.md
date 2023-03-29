@@ -2,10 +2,23 @@
 </br>
 <div align="center">
   <h1>✨ Tech Stack ✨</h1>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Djangorestframework-A50E15?style=for-the-badge&logo=Django&logoColor=white"> </br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-ff9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"> </br> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> </br></br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />Python
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />Django</br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />MySQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />PostgreSQL</br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />Docker
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />AmazonEC2</br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />Javascript
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />HTML
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />CSS</br></br>
   
   <h1>🌈 Contact 🌈</h1>
   💻 <b>Blog</b> : <a href="https://wdwonii.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=tistory&link=https://wdwonii.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   💻 <b>Github</b> : <a href="https://github.com/ja2w0nii/"><img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&link=https://github.com/ja2w0nii/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></br>
   📧 <b>Email : jaewonii94@naver.com</b> </br></br>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ja2w0nii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ja2w0nii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
