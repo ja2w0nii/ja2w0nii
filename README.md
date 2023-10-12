@@ -15,7 +15,7 @@
   <h1>🌈 Contact</h1>
   💻 <b>Blog</b> : <a href="https://wdwonii.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=tistory&link=https://wdwonii.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   💻 <b>Github</b> : <a href="https://github.com/ja2w0nii/"><img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&link=https://github.com/ja2w0nii/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></br>
-  📧 <b>Email : jaewonii94@naver.com</b> </br></br>
+  📧 <b>Email : jaewoniik94@gmail.com</b> </br></br>
 </div>
 
 <div align="center">
